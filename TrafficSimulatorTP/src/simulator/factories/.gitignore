@@ -1,0 +1,19 @@
+/Builder.class
+/BuilderBasedFactory.class
+/Factory.class
+/MoveFirstStrategyBuilder.class
+<<<<<<< HEAD
+/RoundRobinStrategyBuilder.class
+/MostCrowdedStrategyBuilder.class
+/NewRoadEventBuilder.class
+/NewInterCityRoadEventBuilder.class
+/NewRoadEvent.class
+/NewCityRoadEvent.class
+/NewCityRoadEventBuilder.class
+=======
+/MoveAllStrategyBuilder.class
+/NewJunctionEventBuilder.class
+/NewVehicleEventBuilder.class
+>>>>>>> 2c02fce84e847613ea58d41e41b376127f6162ec
+/SetContClassEventBuilder.class
+/SetWeatherEventBuilder.class
